@@ -50,7 +50,7 @@
   <li>🛡️ AI-Powered Cybersecurity: Foundations in <b>Network Security</b> and <b>Cryptography</b>; current focus on <b>LLM vulnerabilities</b> and <b>AI pentesting principles</b>.</li>
   <li>💻 Technical Skills: <b>Python, C/C++</b>.</li>
   <li>🎯 Goal: Join teams building <b>next-gen AI-driven security solutions</b> and contribute via internships to real-world challenges.</li>
-  <li>📫 Reach me: <a href="mailto:cybertech3856@gmail.com">cybertech3856@gmail.com</a></li>
+  <li>📫 Reach me: <a href="mailto: singhak18245@gmail.com">singhak18245@gmail.com</a></li>
 </ul>
 
 <!-- QUICK VALUE PROP FOR RECRUITERS -->
