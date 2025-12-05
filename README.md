@@ -47,7 +47,7 @@
   <li>🛡️ Sec Focus: <b>Network Security</b>, <b>Cryptography</b>, <b>LLM Vulnerabilities</b>, <b>AI Pentesting Principles</b>.</li>
   <li>💻 Tech: <b>Python</b>, <b>C/C++</b>, <b>HTML/CSS/JS</b>.</li>
   <li>🎯 Goal: Internships + projects in <b>AI-driven security</b> with clean docs and reproducible labs.</li>
-  <li>📫 Reach: <a href="mailto:singhak18245@gmail.com">singhak18245@gmail.com</a></li>
+  <li>📫 Reach: <a href="mailto:aksingh18245@gmail.com">aksingh18245@gmail.com</a></li>
 </ul>
 
 <p><b>Value:</b> AI-first security mindset + hands-on scripting + crisp write-ups; comfortable bridging research → practical tooling and documentation.</p>
