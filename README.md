@@ -72,7 +72,7 @@ echo ""
 echo "[✓] PHILOSOPHY LOADED!"
 ```
 
-</td>
+      </td>
     </tr>
   </table>
 </div>
