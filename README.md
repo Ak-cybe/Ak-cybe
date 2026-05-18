@@ -328,7 +328,9 @@ print(f"[+] {me.name} initialized successfully!")
 
 <a href="https://www.linkedin.com/in/amresh-kumar-7b5ab8326"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
 &nbsp;
-<a href="https://yuemzgcn.manus.space/](https://ak-cybe.github.io/myterminal-portfoloi/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" /></a>
+<a href="https://ak-cybe.github.io/myterminal-portfoloi/">
+  <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
+</a>
 &nbsp;
 <a href="mailto:aksingh18245@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 &nbsp;
